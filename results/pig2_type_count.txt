@@ -1,0 +1,7 @@
+Deposit,28435
+Transfer,28437
+Withdrawal,28989
+Bill Payment,28518
+Loan Payment,28471
+ATM Withdrawal,28565
+Online Purchase,28585

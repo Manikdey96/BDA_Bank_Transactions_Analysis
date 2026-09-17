@@ -1,0 +1,7 @@
+Barisal	2.96655e+08
+Chattogram	5.81642e+08
+Comilla	2.845e+08
+Dhaka	1.47079e+09
+Khulna	2.96809e+08
+Rajshahi	2.90682e+08
+Sylhet	2.94711e+08

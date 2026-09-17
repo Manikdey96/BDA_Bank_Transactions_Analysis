@@ -1,0 +1,7 @@
+ATM Withdrawal	28565
+Bill Payment	28518
+Deposit	28435
+Loan Payment	28471
+Online Purchase	28585
+Transfer	28437
+Withdrawal	28989
